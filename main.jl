@@ -1,1 +1,5 @@
-println("Welcome to the Julia demo!")
+function hello()
+    println("Wϵlcomϵ to the Julia demo!")
+end
+
+hello()
